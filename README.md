@@ -8,11 +8,5 @@
 - [ ] Run the package manager `npm start` || `yarn start`
 - [ ] Start the react native application `yarn android` || `yarn ios`
 
-
-- Clone the repository
-- Install packages -> npm install || yarn install
-- Start the packager -> npm start || yarn start
-- Start the react native application -> yarn android
-
 ### Packages
 - Map Element: https://www.npmjs.com/package/react-native-maps
